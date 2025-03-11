@@ -37,8 +37,8 @@ Este é um sistema moderno de gerenciamento de pedidos de entrega desenvolvido c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/case-hubii-nextjs.git
-cd case-hubii-nextjs
+git clone https://github.com/andrealvimc/case-nextjs
+cd case-nextjs
 ```
 
 2. Instale as dependências:
